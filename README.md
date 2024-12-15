@@ -3,6 +3,9 @@
 **AsyncProd** is a backend service built in Go for asynchronously processing product-related operations like uploading, compressing, and storing product images. It integrates with RabbitMQ for message queueing and AWS S3 for storing processed images. The service also includes APIs for managing product data and health check endpoints for system monitoring.
 
 ---
+<div align="center">
+  <img src="https://github.com/sameerihs/AsyncProd/blob/main/async-prod.png" alt="AsyncProd Workflow" width="600">
+</div>
 
 ## Features
 
